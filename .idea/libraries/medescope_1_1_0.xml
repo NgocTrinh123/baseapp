@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="medescope-1.1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/br.com.bemobi/medescope/1.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/br.com.bemobi/medescope/1.1.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/br.com.bemobi/medescope/1.1.0/f221dc965e7ba22865f816c27451c968d341a1b2/medescope-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

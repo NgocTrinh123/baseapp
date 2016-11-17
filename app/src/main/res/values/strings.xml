@@ -1,0 +1,33 @@
+<resources>
+    <!-- Fonts -->
+    <string name="font_lato_black">fonts/lato_black.ttf</string>
+    <string name="font_lato_black_italic">fonts/lato_black_italic.ttf</string>
+    <string name="font_lato_bold">fonts/lato_bold.ttf</string>
+    <string name="font_lato_bold_italic">fonts/lato_bold_italic.ttf</string>
+    <string name="font_lato_hairline">fonts/lato_hairline.ttf</string>
+    <string name="font_lato_hairline_italic">fonts/lato_hairline_italic.ttf</string>
+    <string name="font_lato_italic">fonts/lato_italic.ttf</string>
+    <string name="font_lato_light">fonts/lato_light.ttf</string>
+    <string name="font_lato_light_italic">fonts/lato_light_italic.ttf</string>
+    <string name="font_lato_regular">fonts/lato_regular.ttf</string>
+    <string name="font_myriad_pro_regular">fonts/myriad_pro_regular.otf</string>
+    <string name="font_aller">fonts/Aller.ttf</string>
+    <string name="font_aller_bdit">fonts/Aller_BdIt.ttf</string>
+    <string name="font_aller_it">fonts/Aller_It.ttf</string>
+    <string name="font_aller_lt">fonts/Aller_Lt.ttf</string>
+    <string name="font_aller_ltit">fonts/Aller_LtIt.ttf</string>
+    <string name="font_aller_rg">fonts/Aller_Rg.ttf</string>
+    <string name="font_aller_display">fonts/AllerDisplay.ttf</string>
+
+    <string name="back_to_exit">Press back again to exit!</string>
+    <string name="general_error">Error. Please try again!</string>
+    <string name="google_play_not_available">Google Play Services not available</string>
+    <string name="connection_error">Network connection error!</string>
+
+    <string-array name="dashboard_menu">
+        <item>Fragment 1</item>
+        <item>Fragment 2</item>
+    </string-array>
+
+    <string name="google_map_key">AIzaSyDH5rCe-qiVzSt_humC83NlWvIdu0iDOG8</string>
+</resources>

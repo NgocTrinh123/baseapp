@@ -1,0 +1,129 @@
+apply plugin: 'com.android.application'
+apply plugin: 'com.neenbedankt.android-apt'
+apply plugin: 'realm-android'
+
+def keystorePropertiesFile = rootProject.file("keystore.properties")
+def keystoreProperties = new Properties()
+keystoreProperties.load(new FileInputStream(keystorePropertiesFile))
+
+def appModuleRootFolder = '.'
+def srcDir = 'src'
+def googleServicesJson = 'google-services.json'
+
+task switchToDebug(type: Copy) {
+    def buildType = 'debug'
+    description = 'Switches to DEBUG google-services.json'
+    from "${srcDir}/${buildType}"
+    include "$googleServicesJson"
+    into "$appModuleRootFolder"
+}
+
+task switchToRelease(type: Copy) {
+    def buildType = 'release'
+    description = 'Switches to RELEASE google-services.json'
+    from "${srcDir}/${buildType}"
+    include "$googleServicesJson"
+    into "$appModuleRootFolder"
+}
+
+android {
+
+    def packageName = "com.baseapp.baseapp"
+    def vName = "0.1"
+
+    compileSdkVersion 25
+    buildToolsVersion "25.0.0"
+    defaultConfig {
+        applicationId "com.baseapp.baseapp"
+        minSdkVersion 23
+        targetSdkVersion 25
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+
+    signingConfigs {
+        Release {
+            keyAlias keystoreProperties['keyAlias']
+            keyPassword keystoreProperties['keyPassword']
+            storeFile file(keystoreProperties['storeFile'])
+            storePassword keystoreProperties['storePassword']
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+        debug {
+            debug {
+                switchToDebug
+                debuggable true
+            }
+        }
+    }
+    productFlavors {
+        dev {
+            versionName "${vName}.dev"
+            buildConfigField("boolean", "isDebug", "true")
+            buildConfigField("String", "BASE_URL", '"http://makerspace.vinova.sg"')
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    //support
+    compile "com.android.support:appcompat-v7:$rootProject.supportLibVersion"
+    compile "com.android.support:design:$rootProject.supportLibVersion"
+    compile "com.android.support:recyclerview-v7:$rootProject.supportLibVersion"
+    compile "com.android.support:cardview-v7:$rootProject.supportLibVersion"
+    compile "com.android.support:support-v4:$rootProject.supportLibVersion"
+    testCompile 'junit:junit:4.12'
+    apt 'com.google.dagger:dagger-compiler:2.0.2'
+    provided 'javax.annotation:jsr250-api:1.0'
+    //annotation, parsing
+    compile 'com.google.dagger:dagger:2.0.2'
+    compile 'com.jakewharton:butterknife:7.0.1'
+    compile 'com.google.code.gson:gson:2.6.2'
+    //===
+    //react
+    compile 'io.reactivex:rxandroid:1.2.1'
+    compile 'io.reactivex:rxjava:1.1.6'
+    //===
+    //networking
+    compile 'com.squareup.retrofit2:retrofit:2.1.0'
+    compile 'com.squareup.retrofit2:adapter-rxjava:2.1.0'
+    compile 'com.squareup.retrofit2:converter-gson:2.1.0'
+    compile 'com.squareup.okhttp3:logging-interceptor:3.0.1'
+    compile 'com.squareup.picasso:picasso:2.5.2'
+    compile 'com.squareup.okhttp3:okhttp:3.4.1'
+    //====
+    //permissions
+    compile 'com.tbruyelle.rxpermissions:rxpermissions:0.7.0@aar'
+    //database
+    compile 'io.realm:android-adapters:1.3.0'
+    compile 'com.facebook.stetho:stetho:1.3.1'
+    //dialog
+    compile 'com.orhanobut:dialogplus:1.11@aar'
+
+    //other
+    compile 'com.facebook.rebound:rebound:0.3.8'
+    compile 'org.greenrobot:eventbus:3.0.0'
+    compile 'com.github.AndroidDeveloperLB:AutoFitTextView:3'
+    compile 'com.uphyca:stetho_realm:0.9.0'
+    compile 'com.theartofdev.edmodo:android-image-cropper:2.3.1'
+    compile 'com.makeramen:roundedimageview:2.2.1'
+    compile "com.android.support:gridlayout-v7:$rootProject.supportLibVersion"
+    compile 'com.github.barteksc:android-pdf-viewer:1.4.0'
+    compile 'br.com.bemobi:medescope:1.1.0'
+    compile 'com.android.support:multidex:1.0.1'
+
+    //maps
+    compile 'com.google.android.gms:play-services-maps:9.8.0'
+    compile 'com.akexorcist:googledirectionlibrary:1.0.4'
+}

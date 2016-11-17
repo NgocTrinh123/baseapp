@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/com.android.support-support-core-utils-25.0.0_c6d2b534bb7b95cc1024034ebc80fd8f1d61b9e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/internal_impl-25.0.0_d211024f49af86daf591c9f5268f106d67df8816.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/internal_impl-25.0.0_7ae2830f9260c7a2a10967bb1de90a4497eeff49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/picasso-2.5.2_b73ee71440fea48c5e30f4c89397d43c5e7f89cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/internal_impl-25.0.0_0a4a5b2181d82ce434f481c24d1315ba747bac2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/com.android.support-appcompat-v7-25.0.0_ba086948f79d5ecf5740191ce344df9d97c5d45e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/com.google.android.gms-play-services-base-9.8.0_bec0f28ca8bb7b1b51e833c8e1021a4de9e4bb90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/okio-1.9.0_cf621f1d4b18fc434c788f5a8474c99f38cda839.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/com.android.support-support-media-compat-25.0.0_5557791fe3e83fb9bb747199a81d8aa32179e15d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/gson-2.7_1643ba98a3d8b7681993dd847bfacfc90a48b430.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/okhttp-3.4.1_fa97661053f17cd7c599f953e5129f5396bfeb5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/retrofit-2.1.0_94a0da293fd13bb4cee6076016921f8a7f8da153.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/butterknife-7.0.1_014078fa8bd3cbc660752cee8e584f801f9c9d26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/exploded-aar/com.makeramen/roundedimageview/2.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="814fc0c3ec69a944add398217d90077301501a74">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/com.makeramen-roundedimageview-2.2.1_166632e06c2233e6d313e5ff012699ba0edc59c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/com.google.android.gms-play-services-basement-9.8.0_fd7b0280ea0e58eb684def3272855e9448146d96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/exploded-aar/com.github.AndroidDeveloperLB/AutoFitTextView/3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="18253f99d0b0b99f45c730fc8b8a99bc65e1b1cc">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/com.github.AndroidDeveloperLB-AutoFitTextView-3_23dbe3d591a953212b0bfd07c3cb8e525e854509.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/com.google.android.gms-play-services-tasks-9.8.0_68cf17b4bc89eafca2ca9b4cb79fb273b0bd12d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/exploded-aar/com.github.barteksc/android-pdf-viewer/1.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95bd5b621003270d2f70baa74ac86d79fce276e9">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/com.github.barteksc-android-pdf-viewer-1.4.0_c5ea976c4b0c8d6cfbcc36109c813d2a358b3923.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/converter-gson-2.1.0_23a9069910d7111450c3de4cb8de822d5150f2b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/exploded-aar/io.realm/realm-android-library/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db73bb0b63ec60c9467b564baaf7c1e5d469c9f2">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/io.realm-realm-android-library-1.1.0_639242118c5cf77fd5ae9bb0921dbc538e9bdc7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.2/2bf96b7aa8b611c177d329452af1dc933e14501c/commons-cli-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/commons-cli-1.2_551532be90573787358bf590f647b7d73437b674.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/exploded-aar/br.com.bemobi/medescope/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f9a66fedbb9fcf7fb6ec4d5354bde00a6af99ce5">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/br.com.bemobi-medescope-1.1.0_eed2141a1b67e61b5d560f148f117a66f9443f1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/support-annotations-25.0.0_135536944214c26f2ffa71be54ace9d3f69f784b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/internal_impl-25.0.0_713a2229b68c4ae2c0ea994269a4be85645ea356.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/exploded-aar/com.github.barteksc/pdfium-android/1.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c17272eb894dcb4217871365757ba21f605d35e8">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/com.github.barteksc-pdfium-android-1.4.0_75784e043615d1aabebc3b772c1df76e8896d3fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/eventbus-3.0.0_10c2b6fba0295ccf2133b3876a813f578a890f01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/exploded-aar/com.theartofdev.edmodo/android-image-cropper/2.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1a32a39a9fcae3d354a312cdb78c18159fa702e6">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/com.theartofdev.edmodo-android-image-cropper-2.3.1_bc2862457e9301d8da70583a4fa0e0c0a1bdad54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/com.android.support-support-vector-drawable-25.0.0_22baedf939bab469b56a91cca0538979acc36541.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/exploded-aar/com.uphyca/stetho_realm/0.9.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="133ffeebad2a2a0d72cef7683ebc426bd59ede7f">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/com.uphyca-stetho_realm-0.9.0_7a9b24639294dcf6663b82698b462d5e050f2bff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/com.android.support-support-fragment-25.0.0_7f368623b1102e4a4222f4f920c866e5625f3a2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/jsr305-2.0.1_bf8884bc89f80d38923d7aecefed19ee906c57c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.1.0/693eddc23e87ab13f9cf5001707ce8e7e1d1ff01/adapter-rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/adapter-rxjava-2.1.0_6660e5e16442ed86cb28923e667721a524508da2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/exploded-aar/io.realm/android-adapters/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="821de897b9350f9cb17f5f195a59dcf454bdba3d">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/io.realm-android-adapters-1.3.0_2d8ede5391c7dea7fffeb486f387f78d3c82f185.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/com.android.support-support-compat-25.0.0_b38cb94ca5d174a0a2187359c908fa4f33cff332.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/com.android.support-design-25.0.0_c91ccef8adab96724f1d7ae020492e2ea62da04b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/.gradle/caches/modules-2/files-2.1/org.parceler/parceler-api/1.0.4/4f7392b86e064f3f6da06977f54c21a48e6b6871/parceler-api-1.0.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4f7392b86e064f3f6da06977f54c21a48e6b6871">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/parceler-api-1.0.4_261b2a49c628e8a5c7ec4482b3895268f26f2ff2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/.gradle/caches/modules-2/files-2.1/com.facebook.rebound/rebound/0.3.8/c8b90640dddaf1e7ad75d7cb00b09a44b3788f7e/rebound-0.3.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c8b90640dddaf1e7ad75d7cb00b09a44b3788f7e">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/rebound-0.3.8_bd90da580539fafa6e0d0e043b4f9fee62432260.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/io.reactivex-rxandroid-1.2.1_b0aa322441f9c5c22c5d64e703f0a35a28ac9ac8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.0.1/1d232df84491c0453e077002509911301109409d/logging-interceptor-3.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1d232df84491c0453e077002509911301109409d">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/logging-interceptor-3.0.1_55a4b381a567e51b954af396f1dda4beb1ccbb97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.6/2586312cd2b8a511e4c6236736f5a039fc0f2273/rxjava-1.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/rxjava-1.1.6_1db580d5121244ecf78eff7e5e878c63ee861be2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.0.2/de8416eda7b2fd7c25836b140c39e1cbf10542f6/dagger-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de8416eda7b2fd7c25836b140c39e1cbf10542f6">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/dagger-2.0.2_c745a85738f7c58a43d4b2853a65e8d07303d947.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/internal_impl-25.0.0_93079b9348b6d5315a3b0cb84aeaa55db7678757.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5025063c4c03baa1b6759432195024dd8e5a3f92">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/com.android.support-gridlayout-v7-25.0.0_3ac8f18163b66a7af3757c3793ddfebcd193402f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/com.android.support-animated-vector-drawable-25.0.0_19e702464676c9a04178bb2a9d898e641e8f3b3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/exploded-aar/com.akexorcist/googledirectionlibrary/1.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1c4f62b5874f45a6fd3617fa6447714adb7a72a7">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/com.akexorcist-googledirectionlibrary-1.0.4_6720a3d4d4e4f008626fb9c33e9156a5ccba8b31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/com.android.support-cardview-v7-25.0.0_5bf6c1f04c5cf5f36104100a9f6df12a1cce7b4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho/1.3.1/2c4076b466a0eb4d6ddf5721edd35cd1adc1f317/stetho-1.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c4076b466a0eb4d6ddf5721edd35cd1adc1f317">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/stetho-1.3.1_8b78f68f672043760fee98e21da329af74e7e2c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/com.android.support-recyclerview-v7-25.0.0_ee71715a6d5ceed6541149323ab3ab0e4b428a2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/com.google.android.gms-play-services-maps-9.8.0_c375faed3ebc644bdfcacf068a77df33c13471a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/exploded-aar/com.tbruyelle.rxpermissions/rxpermissions/0.7.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="50fd38504119ea609c269abf98af75fb14e82f2c">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/com.tbruyelle.rxpermissions-rxpermissions-0.7.0_6003c0893eba11676a1c328520f4a1e31ec35168.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/com.android.support-support-v4-25.0.0_83b81f125ed430be2492a2dbd19b95790449e09b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/javax.inject-1_60fb6330b4793118c0e86c9946e781aec334b924.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/com.android.support-transition-25.0.0_b8dfa8f7c50a3ee5b4903a24468182cef6a9366d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/com.android.support-support-core-ui-25.0.0_5c6c7c7bd7cd3a78ce5bf4e05896c4fd33551953.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/exploded-aar/com.orhanobut/dialogplus/1.11/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="184f86117c6463267c1f0deba84d4853cb165c40">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/com.orhanobut-dialogplus-1.11_ed4e8eac4c063de19c27770cb3e7ac526d30c713.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/.gradle/caches/modules-2/files-2.1/io.realm/realm-annotations/1.1.0/4459414c171c7b60cdc2f089ffa72d19d773835e/realm-annotations-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4459414c171c7b60cdc2f089ffa72d19d773835e">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/realm-annotations-1.1.0_e23f2c567c22121a9dbc6ccb64ef33d568deafc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/exploded-aar/com.getkeepsafe.relinker/relinker/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="264f0bc4c0680cfe7a60fea1f12a43f1ab48e7c8">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/com.getkeepsafe.relinker-relinker-1.2.1_d10d86e3b7515b1040a7995dd479523f7f8d2c1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/tunglam/Documents/Android Project/BaseApp/app/build/intermediates/pre-dexed/dev/debug/com.android.support-multidex-1.0.1_884a69a13470f79ee2b9cd389f56c51b1598b529.jar" />
+    </item>
+
+</items>

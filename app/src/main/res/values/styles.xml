@@ -1,0 +1,22 @@
+<resources>
+
+
+    <style name="ActionbarTitle">
+        <item name="android:textColor">@color/title</item>
+        <item name="font">@string/font_lato_bold</item>
+        <item name="android:textSize">@dimen/title_size</item>
+    </style>
+
+    <style name="ActionbarMenu">
+        <item name="android:textColor">@color/title</item>
+        <item name="font">@string/font_lato_regular</item>
+        <item name="android:textSize">@dimen/title_size</item>
+    </style>
+
+    <style name="OptionMenu">
+        <item name="font">@string/font_lato_regular</item>
+        <item name="android:textSize">@dimen/title_size</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorControlNormal">@color/colorAccent</item>
+        <item name="android:titleTextStyle">@style/ActionbarTitle</item>
+        <item name="android:textSize">@dimen/default_text_size_big</item>
+        <item name="android:textColor">@color/edit_text_color</item>
+        <item name="android:textColorHint">@color/subtitle</item>
+        <item name="android:spinnerItemStyle">@style/mySpinnerItemStyle</item>
+        <item name="android:screenOrientation">portrait</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="AppTheme.PopupOverlay" parent="Base.Widget.AppCompat.Toolbar">
+        <item name="android:shadowColor">@android:color/transparent</item>
+        <item name="android:titleTextStyle">@style/ActionbarTitle</item>
+    </style>
+
+    <style name="mySpinnerItemStyle" parent="@android:style/Widget.Holo.DropDownItem.Spinner">
+        <item name="android:textColor">@color/grey_text_1</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+</resources>
