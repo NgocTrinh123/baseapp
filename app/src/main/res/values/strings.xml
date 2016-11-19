@@ -27,7 +27,11 @@
     <string-array name="dashboard_menu">
         <item>Fragment 1</item>
         <item>Maps Fragment</item>
+        <item>Calendar</item>
+        <item>FireBase Chat</item>
     </string-array>
 
     <string name="google_map_key">AIzaSyDH5rCe-qiVzSt_humC83NlWvIdu0iDOG8</string>
+    <string name="ok">ok</string>
+    <string name="back">back</string>
 </resources>

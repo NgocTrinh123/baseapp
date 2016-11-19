@@ -6,6 +6,7 @@ import android.view.Gravity;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.FrameLayout;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.baseapp.baseapp.R;
@@ -14,9 +15,10 @@ import com.baseapp.baseapp.base.BaseAdapter;
 import com.baseapp.baseapp.base.BaseFragmentActivity;
 import com.baseapp.baseapp.listener.OnRecyclerViewClickListener;
 import com.baseapp.baseapp.listener.RecyclerTouchListener;
+import com.baseapp.baseapp.ui.fragment.CalendarFragment;
+import com.baseapp.baseapp.ui.fragment.FireBaseChatFragment;
 import com.baseapp.baseapp.ui.fragment.HomeFragment;
 import com.baseapp.baseapp.ui.fragment.MapsFragment1;
-import com.baseapp.baseapp.ui.fragment.UnderConstructorFragment;
 
 import java.util.Arrays;
 
@@ -73,8 +75,14 @@ public class LeftDrawer {
             case 1:
                 activity.changeFragment(MapsFragment1.create(name, true), false);
                 break;
+//            case 2:
+//                activity.changeFragment(UnderConstructorFragment.create(name, true), false);
+//                break;
             case 2:
-                activity.changeFragment(UnderConstructorFragment.create(name, true), false);
+                activity.changeFragment(CalendarFragment.create(name, true), false);
+                break;
+            case 3:
+                activity.changeFragment(FireBaseChatFragment.create(name, true), false);
                 break;
             default:
                 activity.changeFragment(new HomeFragment(), false);
@@ -99,10 +107,12 @@ public class LeftDrawer {
 
         class ViewHolder extends RecyclerView.ViewHolder {
             private TextView tvName;
+            private ImageView ivIcon;
 
             public ViewHolder(View itemView) {
                 super(itemView);
                 tvName = (TextView) itemView.findViewById(R.id.tv_name);
+                ivIcon = (ImageView) itemView.findViewById(R.id.item_dashboard_menu_iv_icon);
             }
 
             public void bind(int position) {

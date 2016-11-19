@@ -9,6 +9,10 @@
     <color name="blue">#0067b4</color>
     <color name="subtitle">#b2000000</color>
     <color name="grey_text_1">#414141</color>
+    <color name="gray_light">#b5b5b5</color>
     <color name="blue_dark">#005391</color>
+    <color name="gray">#aebac2</color>
+
+    <color name="kprogresshud_default_color">#b1000000</color>
 
 </resources>

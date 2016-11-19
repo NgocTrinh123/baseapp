@@ -156,8 +156,8 @@ public class MapsFragment1 extends BaseMainFragment {
     private void settingMap() {
         googleMap.setMapType(GoogleMap.MAP_TYPE_NORMAL);
         googleMap.getUiSettings().setAllGesturesEnabled(true);
-        googleMap.getUiSettings().setMyLocationButtonEnabled(true);
-        googleMap.getUiSettings().setZoomControlsEnabled(true);
+        googleMap.getUiSettings().setMyLocationButtonEnabled(false);
+        googleMap.getUiSettings().setZoomControlsEnabled(false);
         googleMap.setInfoWindowAdapter(new MyInfoWindowAdapter());
         googleMap.setOnMapClickListener(new GoogleMap.OnMapClickListener() {
             @Override

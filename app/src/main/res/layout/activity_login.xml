@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center">
+
+        <com.baseapp.baseapp.widget.baseview.AppEditText
+            android:id="@+id/activity_login_et_username"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/default_padding"
+            android:hint="user Name"
+            android:padding="@dimen/default_padding" />
+
+        <com.baseapp.baseapp.widget.baseview.AppEditText
+            android:id="@+id/activity_login_et_pass"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/activity_login_et_username"
+            android:layout_margin="@dimen/default_padding"
+            android:hint="Password"
+            android:inputType="textPassword"
+            android:padding="@dimen/default_padding" />
+
+        <com.baseapp.baseapp.widget.baseview.AppButton
+            android:id="@+id/activity_login_bt_login"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/activity_login_et_pass"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/default_padding"
+            android:text="Login" />
+    </RelativeLayout>
+</android.support.v4.widget.NestedScrollView>
